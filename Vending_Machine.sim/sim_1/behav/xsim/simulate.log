@@ -1,0 +1,31 @@
+Time resolution is 1 ps
+Time:                    0, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                   30, Coin: 1, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                   40, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                   50, Coin: 0, Select: 1, PrA:0, PrB:0, PrC:0, change:0
+Time:                   55, Coin: 0, Select: 1, PrA:1, PrB:0, PrC:0, change:0
+Time:                   60, Coin: 0, Select: 0, PrA:1, PrB:0, PrC:0, change:0
+Time:                   65, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                   90, Coin: 2, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  100, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  110, Coin: 0, Select: 2, PrA:0, PrB:0, PrC:0, change:0
+Time:                  115, Coin: 0, Select: 2, PrA:0, PrB:1, PrC:0, change:1
+Time:                  120, Coin: 0, Select: 0, PrA:0, PrB:1, PrC:0, change:1
+Time:                  125, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  150, Coin: 2, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  160, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  170, Coin: 1, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  180, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  190, Coin: 0, Select: 3, PrA:0, PrB:0, PrC:0, change:0
+Time:                  195, Coin: 0, Select: 3, PrA:0, PrB:0, PrC:1, change:1
+Time:                  200, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:1, change:1
+Time:                  205, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  230, Coin: 2, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  240, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  250, Coin: 2, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  260, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+Time:                  270, Coin: 0, Select: 3, PrA:0, PrB:0, PrC:0, change:0
+Time:                  275, Coin: 0, Select: 3, PrA:0, PrB:0, PrC:1, change:1
+Time:                  280, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:1, change:1
+Time:                  285, Coin: 0, Select: 0, PrA:0, PrB:0, PrC:0, change:0
+$finish called at time : 350 ns : File "C:/Users/PIYUSH ANTIL/Documents/Electronics/Digital/Verilog Projects/Vending_Machine/Vending_Machine.srcs/sim_1/new/vending_machine_tb.v" Line 93
